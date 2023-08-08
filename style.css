@@ -20,7 +20,7 @@ body {
 .container{
 height: 100vh;
 display: grid;
-grid-template-columns: 30% 30%;
+grid-template-columns: 10% 10%;
 }
 .container__botao {
 background-color: var(--botao-azul);
