@@ -123,18 +123,18 @@ body {
 
 .lista__link a{
     text-decoration: none;
-    color: var(--branco-principal);
+    color:var(--branco-principal);
     margin-left: 1em;
 }
 .lista__link a:hover{
-    color: var(--botao-zul)
+    color:var(--botao-zul)
 }
 .lista__link a:active{
     color:purple
 }
 .container_botao:hover{
     background-color: #3c92fa
-    color: var(--cor-de-fundo)
+    color:var(--cor-de-fundo)
 }
 .rodape__texto{
     margin: lem 0;
