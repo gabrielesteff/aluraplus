@@ -133,7 +133,7 @@ body {
     color:purple
 }
 .container_botao:hover{
-    background-color: #3c92fa
+    background-color: #3c92fa;
     color:var(--cor-de-fundo)
 }
 .rodape__texto{
