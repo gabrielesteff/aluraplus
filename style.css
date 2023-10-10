@@ -134,7 +134,7 @@ body {
 }
 .container_botao:hover{
     background-color: #3c92fa
-    color: var(--cor-de-fundo);
+    color: var(--cor-de-fundo)
 }
 .rodape__texto{
     margin: lem 0;
